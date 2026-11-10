@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+keystore.properties
+keystore/
+.idea/
+*.iml
+.DS_Store
+# 只发布 release 包，调试包体积大且无意义
+dist/*-debug.apk
+*.bak

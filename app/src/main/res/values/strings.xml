@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">伟哥扫描王</string>
+    <string name="channel_convert_name">转换进度</string>
+    <string name="channel_convert_desc">上传与转换任务的进度通知</string>
+</resources>

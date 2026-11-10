@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 相机临时照片：cacheDir/shots -->
+    <cache-path name="shots" path="shots/" />
+    <!-- 产物缓存（分享出去的那份） -->
+    <cache-path name="out" path="out/" />
+    <!-- 上传暂存（保留原始文件名） -->
+    <cache-path name="stage" path="stage/" />
+    <!-- Android 8/9 上保存到私有目录后分享 -->
+    <external-files-path name="docs" path="Documents/" />
+</paths>

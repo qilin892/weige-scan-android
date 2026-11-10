@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 通知栏小图标：必须单色剪影（系统会再染色），所以画成实心纸张轮廓 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M7,2h7l5,5v13a2,2 0 0,1 -2,2H7a2,2 0 0,1 -2,-2V4a2,2 0 0,1 2,-2zM14,3.5V7h3.5L14,3.5z" />
+</vector>
