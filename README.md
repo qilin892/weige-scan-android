@@ -2,7 +2,7 @@
 
 拍照 / 图片 / PDF / Word → **可编辑的 Word、Excel、HTML、PDF**。原生 Android 客户端，后端复用现有 Web 服务。
 
-**[下载 APK](dist/WeigeScan-1.0.4-release.apk)**（1.7 MB，Android 8.0+ / API 26，已签名）
+**[下载 APK](dist/WeigeScan-1.0.4-release.apk)**（1.7 MB，Android 8.0+ / API 26，已签名） · [Release 说明](https://github.com/qilin892/weige-scan-android/releases)
 
 ![](docs/screens/01-scan.png)
 
